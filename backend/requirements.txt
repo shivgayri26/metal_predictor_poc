@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlmodel
+keyring
+pandas
+numpy
+statsmodels
+pmdarima
+joblib
+beautifulsoup4
+python-dotenv
+cryptography
